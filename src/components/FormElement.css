@@ -1,0 +1,18 @@
+.form-box {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    padding: 10px 0 5px 5px;
+    color: var(--fontColor);
+}
+
+input {
+    background-color: var(--inputColor);
+    border: 3px solid var(--bordersColor);
+    border-radius: 5px;
+    padding: 10px 14px;
+}
