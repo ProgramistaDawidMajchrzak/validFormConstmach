@@ -25,3 +25,14 @@
 .header-box img {
     width: 200px;
 }
+
+@media screen and (max-width: 600px) {
+    .header-box {
+        width: 80%;
+        height: 260px;
+    }
+
+    .header-box h4 {
+        text-align: center;
+    }
+}

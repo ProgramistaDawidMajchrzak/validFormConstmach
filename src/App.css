@@ -40,7 +40,7 @@ textarea::placeholder {
 .check-box {
   display: flex;
   height: auto;
-  width: 700px;
+  width: 70%;
   text-align: center;
   margin-top: 20px;
   position: relative;
@@ -52,7 +52,7 @@ textarea::placeholder {
   margin-top: 20px;
 }
 
-.container button {
+.form-submit-btn {
   background-color: #5AA897;
   border-radius: 5px;
   padding: 10px 30px;
@@ -67,7 +67,7 @@ textarea::placeholder {
   transition: .25s ease;
 }
 
-.container button:hover {
+.form-submit-btn:hover {
   border: 3px solid var(--fontColor);
 }
 
@@ -83,4 +83,23 @@ footer {
 footer a {
   text-decoration: none;
   color: var(--fontColor);
+}
+
+@media screen and (max-width: 600px) {
+  .check-box {
+    width: 100%;
+  }
+
+  .check-box p {
+    font-size: 7px;
+  }
+
+  .check-box input {
+    margin-top: 10px;
+  }
+
+  form {
+    margin-top: 20px;
+    width: 90%;
+  }
 }
