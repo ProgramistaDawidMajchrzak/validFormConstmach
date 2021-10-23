@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/validFormConstmach/static/css/main.a3008f54.chunk.css",
+    "main.js": "/validFormConstmach/static/js/main.b3bf4cd6.chunk.js",
+    "main.js.map": "/validFormConstmach/static/js/main.b3bf4cd6.chunk.js.map",
+    "runtime-main.js": "/validFormConstmach/static/js/runtime-main.4bb98d32.js",
+    "runtime-main.js.map": "/validFormConstmach/static/js/runtime-main.4bb98d32.js.map",
+    "static/js/2.75b6ea1d.chunk.js": "/validFormConstmach/static/js/2.75b6ea1d.chunk.js",
+    "static/js/2.75b6ea1d.chunk.js.map": "/validFormConstmach/static/js/2.75b6ea1d.chunk.js.map",
+    "static/js/3.186f5118.chunk.js": "/validFormConstmach/static/js/3.186f5118.chunk.js",
+    "static/js/3.186f5118.chunk.js.map": "/validFormConstmach/static/js/3.186f5118.chunk.js.map",
+    "index.html": "/validFormConstmach/index.html",
+    "static/css/main.a3008f54.chunk.css.map": "/validFormConstmach/static/css/main.a3008f54.chunk.css.map",
+    "static/js/2.75b6ea1d.chunk.js.LICENSE.txt": "/validFormConstmach/static/js/2.75b6ea1d.chunk.js.LICENSE.txt",
+    "static/media/logo-true.095dcb74.png": "/validFormConstmach/static/media/logo-true.095dcb74.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bb98d32.js",
+    "static/js/2.75b6ea1d.chunk.js",
+    "static/css/main.a3008f54.chunk.css",
+    "static/js/main.b3bf4cd6.chunk.js"
+  ]
+}
